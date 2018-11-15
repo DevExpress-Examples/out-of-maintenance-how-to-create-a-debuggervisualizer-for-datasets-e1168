@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DXChartVizualizer.Test/Form1.cs) (VB: [Form1.vb](./VB/DXChartVizualizer.Test/Form1.vb))
+* [Program.cs](./CS/DXChartVizualizer.Test/Program.cs) (VB: [Program.vb](./VB/DXChartVizualizer.Test/Program.vb))
+* [DXChartVizualizer.cs](./CS/DXChartVizualizer/DXChartVizualizer.cs) (VB: [DXChartVizualizerForm.vb](./VB/DXChartVizualizer/DXChartVizualizerForm.vb))
+* [DXChartVizualizerForm.cs](./CS/DXChartVizualizer/DXChartVizualizerForm.cs) (VB: [DXChartVizualizerForm.vb](./VB/DXChartVizualizer/DXChartVizualizerForm.vb))
+<!-- default file list end -->
 # How to create a DebuggerVisualizer for DataSets
 
 
